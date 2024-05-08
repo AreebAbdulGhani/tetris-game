@@ -44,6 +44,6 @@ This documentation outlines the steps taken to complete the DevOps internship as
 The assignment demonstrated proficiency in deploying cloud-native applications using Kubernetes, GitOps principles, and tools like Argo CD and Argo Rollouts. Despite challenges, effective problem-solving skills were employed to ensure successful completion.
 
 ## Acknowledgements
-Thank you for the opportunity, i am looking forward to contribute and the problem for the team with my DevOps and Cloud skill.
+Thank you for the opportunity, i am looking forward to contribute and solve the problem for the team with my DevOps and Cloud skill.
 
 ---
