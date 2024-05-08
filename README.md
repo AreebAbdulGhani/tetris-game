@@ -1,4 +1,6 @@
 # DevOps Internship Assignment Documentation
+Must watch the video demonstration
+## My video implementation of the assignment - https://drive.google.com/file/d/1IZxy_gfoCf7IFG-mlWWhkNsYdtpzrXiw/view?usp=drive_link
 
 ## Introduction
 This documentation outlines the steps taken to complete the DevOps internship assignment, focusing on the technical implementation aspects. The assignment involved setting up a GitOps pipeline using Argo CD for continuous deployment and Argo Rollouts for advanced deployment strategies within an AWS EKS Kubernetes environment. The Tetris game was Dockerized and deployed to the cluster, showcasing the use of cloud-native technologies for automated deployment and management.
