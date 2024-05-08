@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: tetris
-          image: areeb01/tetris-app-v2
+          image: areeb01/tetris-app
           ports:
             - containerPort: 80 
