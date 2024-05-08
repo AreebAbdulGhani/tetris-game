@@ -1,7 +1,3 @@
-Apologies for overlooking those details. Let me incorporate them into the documentation:
-
----
-
 # DevOps Internship Assignment Documentation
 
 ## Introduction
